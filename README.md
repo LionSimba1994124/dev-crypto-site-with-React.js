@@ -1,1 +1,1 @@
-# development Crypto site with React.js and SCSS
+# cryptosite_react

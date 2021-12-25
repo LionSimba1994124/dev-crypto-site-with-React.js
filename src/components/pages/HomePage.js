@@ -27,7 +27,7 @@ const acc_data = [
         description: "We aim to do one at least every week - we're a new company that recently launched so we'll release more details on the give aways as soon as possible collecting feedback from the community"
     },
     {
-        title: "how doese ticket work?",
+        title: "how does ticket work?",
         description: "We aim to do one at least every week - we're a new company that recently launched so we'll release more details on the give aways as soon as possible collecting feedback from the community"
     },
     {
